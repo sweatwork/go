@@ -1,2 +1,2 @@
 language = "go"
-run = ""
+run = "go run dup1/dup1.go"
