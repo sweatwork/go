@@ -1,0 +1,6 @@
+# ignore all
+*
+
+# except these
+!.gitignore
+!fetchall.go
